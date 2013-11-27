@@ -135,7 +135,5 @@ class World {
     return jardin;
   }
   
-  /*Npc getNpc(int i){
-    return npcs;
-  }  */
+  
 }

@@ -1,0 +1,3 @@
+class TomatoSeed extends Seed {
+
+}

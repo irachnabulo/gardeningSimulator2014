@@ -1,0 +1,3 @@
+class CornSeed extends Seed {
+  
+}
